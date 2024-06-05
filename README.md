@@ -1,2 +1,2 @@
-# Lambton---Python-Programming
+# Lambton-Python-Programming
 Python Programming
